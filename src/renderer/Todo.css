@@ -1,0 +1,23 @@
+.todo {
+    width: 100%;
+    height: 100%;
+}
+
+.back {
+    position: absolute;
+    border: 2px solid white;
+    top: 10%;
+    padding: 3px 5px;
+    cursor: pointer;
+    left: 5%;
+    font-size: 25px;
+}
+
+.todo-ch {
+    padding: 15px;
+}
+
+button {
+    display: block;
+    margin: 10px 30px;
+}
